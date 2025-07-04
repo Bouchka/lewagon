@@ -1,6 +1,4 @@
-'''
-This is the module docstring
-'''
+"""A module computing buddy pair names for the day"""
 
 # $CHALLENGIFY_BEGIN
 def my_name_is():
@@ -13,5 +11,5 @@ def my_buddy_is():
     '''
     This is the function docstring
     '''
-    return "Bouchka"
+    return "I don't have one :()"
 # $CHALLENGIFY_END
